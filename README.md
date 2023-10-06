@@ -22,7 +22,7 @@ Para elaborar e rodar esse projeto foi usado o VS Code usando HTML, CSS, FLEBOX 
 ### Como rodar o projeto
 
 
-Baixe e instale o {Vs Code} (https://code.visualstudio.com/) ao baixar e instalar seria interessante abria a aba de extensões e habilitar a extensão Live Server onde possibilita ver em tempo real o projeto e caso faça mudanças
+Baixe e instale o Vs Code clicando aqui (https://code.visualstudio.com/) ao baixar e instalar seria interessante abria a aba de extensões e habilitar a extensão Live Server onde possibilita ver em tempo real o projeto e caso faça mudanças
 assim que salvar no Vs Code a mudança e feita automaticamente no navegador.
 Ao instalar a extensão verifique no canto inferior do VS Code se tem a opção Go LIVE só clivar e ela abrira o navegador de seu computador com o projeto.
 
@@ -48,7 +48,7 @@ Conforme foi rodando o projeto ele funcionou normalmente, mas quando subiu o Ver
   * Nome do arquivo com acento ou letra maiúscula, o vercel não aceita, pois esse motivo olhar atentamente a forma de escrita
   * cuidado ao subir no GITHUB verifique se está correto conforme esta em seu computador nas pastas corretas se tiver alguma modificação pode dar erro
 
-  * confira aqui o projeto rodando na [vercel] (https://portifoliopaulosouzadevs.vercel.app/) após solucionar os erros.
+  * Confira o projeto rodando na vercel clicando aqui (https://portifoliopaulosouzadevs.vercel.app/) após solucionar os erros.
 
 
 ### Próximo Passos
