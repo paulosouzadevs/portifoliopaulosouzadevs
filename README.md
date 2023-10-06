@@ -15,14 +15,14 @@ Para elaborar e rodar esse projeto foi usado o VS Code usando HTML, CSS, FLEBOX 
 
   ### Dependências e Versões Necessárias
 
-        VS Code x64-1.83.0 
-        windows 10 versão – x64
+    *VS Code x64-1.83.0 
+    *windows 10 versão – x64
 
 
 ### Como rodar o projeto
 
 
-Baixe e instale o [Vs Code] (https://code.visualstudio.com/) ao baixar e instalar seria interessante abria a aba de extensões e habilitar a extensão Live Server onde possibilita ver em tempo real o projeto e caso faça mudanças
+Baixe e instale o {Vs Code} (https://code.visualstudio.com/) ao baixar e instalar seria interessante abria a aba de extensões e habilitar a extensão Live Server onde possibilita ver em tempo real o projeto e caso faça mudanças
 assim que salvar no Vs Code a mudança e feita automaticamente no navegador.
 Ao instalar a extensão verifique no canto inferior do VS Code se tem a opção Go LIVE só clivar e ela abrira o navegador de seu computador com o projeto.
 
