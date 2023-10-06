@@ -57,5 +57,5 @@ Conforme foi rodando o projeto ele funcionou normalmente, mas quando subiu o Ver
 Logo em seguida modificaremos e ampliaremos o projeto acrescentando funções como:
 
   * Campo para video explicativo
-  * Acrescentar redes sociais como YouTube, etc.
+  * redes sociais como YouTube, etc.
   * Aba de comentários, perguntas e elogios
