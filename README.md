@@ -47,7 +47,7 @@ O projeto e simples, ele demonstra as características do Desenvolvedor e um pou
 Conforme foi rodando o projeto ele funcionou normalmente, mas quando subiu o Vercel ele dava erro por alguns fatores:
 
   * Nome do arquivo com acento ou letra maiúscula, o vercel não aceita, pois esse motivo olhar atentamente a forma de escrita
-  * cuidado ao subir no GITHUB verifique se está correto conforme esta em seu computador nas pastas corretas se tiver alguma modificação pode dar erro
+  * Cuidado ao subir no GITHUB verifique se está correto conforme esta em seu computador nas pastas corretas se tiver alguma modificação pode dar erro
 
   * Confira o projeto rodando na vercel clicando aqui (https://portifoliopaulosouzadevs.vercel.app/) após solucionar os erros.
 
