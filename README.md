@@ -16,8 +16,8 @@ Para elaborar e rodar esse projeto foi usado o VS Code usando HTML, CSS, FLEBOX 
 
   ### Dependências e Versões Necessárias
 
-    *VS Code x64-1.83.0 
-    *windows 10 versão – x64
+    * VS Code x64-1.83.0 
+    * windows 10 versão – x64
 
 
 ### Como rodar o projeto
