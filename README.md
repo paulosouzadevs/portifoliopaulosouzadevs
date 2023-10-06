@@ -4,7 +4,8 @@ Meu primeiro portfólio desenvolvido com os cursos de HTML e CSS da Alura
 
 Enquanto assistia à aula de CSS e HTML, coloquei em prática escrevendo o código sem copiar para uma melhor fixação, isso ajudou a entender mais sobre cada detalhe do projeto.
 Analisando onde colocar cada comando como pais e filhos deixa o projeto mais organizado e fácil de entender, isso e demonstrado em 3 partes que seria Aba principal (indes.html), aba Secundaria (about.html, e a aba de estilos (style.css).
-  As divisões e para clarear a mente e deixar o projeto mais claro e de fácil entendimento, por ser um projeto de portfólio isso precisa ser claro!
+
+As divisões e para clarear a mente e deixar o projeto mais claro e de fácil entendimento, por ser um projeto de portfólio isso precisa ser claro!
 
 
 
